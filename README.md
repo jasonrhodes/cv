@@ -1,6 +1,11 @@
 # Jason Rhodes
 I'm a developer, community leader, open-source contributor, and speaker based in Baltimore,&nbsp;MD. 
 
+Contents:
+* [Work history](#work-history)
+* [Community leadership](#community-leadership)
+
+
 ### Work history
 
 **Lead developer and web dev/design team leader**   
