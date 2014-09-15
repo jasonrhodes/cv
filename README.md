@@ -36,19 +36,19 @@ I've contributed in small part to many different projects but my favorite contri
 
 ### Speaking experience
 
-Started from the Bottom, A Story About NodeSchool and Community  
+**Started from the Bottom, A Story About NodeSchool and Community**  
 CascadiaJS 2014 [video](https://www.youtube.com/watch?v=XsmvTnOLwhk&list=UUIP244iNzbn4iEkDOgczvcQ) [slides](https://speakerdeck.com/jasonrhodes/started-from-the-bottom)
 
-Let's Use More JS, OK?  
+**Let's Use More JS, OK?**  
 PSU Web Conference, 2014 [slides](https://speakerdeck.com/jasonrhodes/lets-use-more-javascript-ok)
 
-Schoolhouse Rock: How a Simple Website Becomes a Magical API
+**Schoolhouse Rock: How a Simple Website Becomes a Magical API**   
 PSU Web Conference, 2014 [slides](https://speakerdeck.com/jasonrhodes/schoolhouse-rock-how-a-simple-website-becomes-a-magical-api)
 
-Not Your Grandmother's WordPress
+**Not Your Grandmother's WordPress**  
 Midwest PHP, 2014 [slides](https://speakerdeck.com/jasonrhodes/not-your-grandmothers-wordpress-v2-midwestphp)
 
-RIP WYSIWYG
+*RIP WYSIWYG*  
 Digital360, 2013 [slides](https://speakerdeck.com/jasonrhodes/rip-wysiwyg)
 
 ### Overall web development skills
