@@ -34,6 +34,8 @@ I've contributed in small part to many different projects but my favorite contri
 
 [Markov Memeify](https://github.com/jasonrhodes/meatspace-markov-memeify) takes 24 hours worth of my favorite chat room's logs, runs a markov chain filter through the text, and produces a 1-4 word phrase that is overlaid on a JPEG or PNG image using node-canvas and the always popular Impact font.
 
+You can also check out my other repos on [http://github.com/jasonrhodes?tab=repositories](my GitHub page).
+
 ### Speaking experience
 
 **Started from the Bottom, A Story About NodeSchool and Community**  
@@ -48,7 +50,7 @@ PSU Web Conference, 2014 [slides](https://speakerdeck.com/jasonrhodes/schoolhous
 **Not Your Grandmother's WordPress**  
 Midwest PHP, 2014 [slides](https://speakerdeck.com/jasonrhodes/not-your-grandmothers-wordpress-v2-midwestphp)
 
-*RIP WYSIWYG*  
+**RIP WYSIWYG**  
 Digital360, 2013 [slides](https://speakerdeck.com/jasonrhodes/rip-wysiwyg)
 
 ### Overall web development skills
