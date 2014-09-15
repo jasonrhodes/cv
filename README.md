@@ -24,7 +24,9 @@ Johns Hopkins University, Krieger School of Arts and Sciences
 
 ### Community leadership
 
-I'm the creator and organizer of http://nodeschool.io/baltimore, where I organize monthly meetings during which we teach people various Node.js related concepts using open-source command-line lessons.
+I'm the creator and organizer of [Baltimore NodeSchool](http://nodeschool.io/baltimore), where I organize monthly meetings during which we teach people various Node.js related concepts using open-source command-line lessons.
+
+In addition to official NodeSchool events, I teach JavaScript courses for events like [Baltimore Innovation Week](http://2014.baltimoreinnovationweek.com/events/dev_day-2) and non-profit groups such as [Girl Develop It](http://www.girldevelopit.com/). 
 
 ### Open-source contributions
 
