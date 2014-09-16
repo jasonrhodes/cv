@@ -34,17 +34,17 @@ Johns Hopkins University, Krieger School of Arts and Sciences
 
 I'm the creator and organizer of [Baltimore NodeSchool](http://nodeschool.io/baltimore), where we use open-source command-line lessons to teach various Node.js-related concepts every month, for free.
 
-In addition to official NodeSchool events, I teach JavaScript courses at events like [Baltimore Innovation Week](http://2014.baltimoreinnovationweek.com/events/dev_day-2) and in collaboration with non-profit groups such as [Girl Develop It](http://www.girldevelopit.com/). 
+In addition to official NodeSchool events, I teach JavaScript courses at events run by organizations such as [Baltimore Innovation Week](http://2014.baltimoreinnovationweek.com/events/dev_day-2) and [Girl Develop It](http://www.girldevelopit.com/). 
 
 ### Open-source contributions
 
-I've contributed in small part to many different projects but my favorite contributions recently have been to the http://revisit.link project, which "encourages developers to build small, focused code projects called services to manipulate images files in amazing ways". I've contributed several services that use the following two libraries:
+I've contributed in small part to many different projects but my favorite contributions recently have been to the http://revisit.link project, which "encourages developers to build small, focused code projects called services to manipulate images files in amazing ways". I've contributed several such "revisit services" that rely mostly on these two libraries that I created:
 
 > [**GifPlay**](https://github.com/jasonrhodes/revisit-gifplay) accepts animated GIFs and plays with the individual frames. Services here include shuffle, pingpong (running the image forward and backward in a loop), and slow-mo (adding delay to every 3rd frame), among others.
 
-> [**Markov Memeify**](https://github.com/jasonrhodes/meatspace-markov-memeify) takes 24 hours worth of my favorite chat room's logs, runs a markov chain filter through the text, and produces a 1-4 word phrase that is overlaid on a JPEG or PNG image using node-canvas and the always popular Impact font.
+> [**Markov Memeify**](https://github.com/jasonrhodes/meatspace-markov-memeify) takes 24 hours worth of my favorite chat room's logs, runs a Markov chain filter through the text, and produces a 1-4 word phrase that is overlaid on a JPEG or PNG image using node-canvas and the always popular Impact font.
 
-You can also check out my other repos on [http://github.com/jasonrhodes?tab=repositories](my GitHub page).
+You can also check out my other open-source code repositories on [http://github.com/jasonrhodes?tab=repositories](my GitHub page).
 
 ### Speaking experience
 
@@ -67,8 +67,8 @@ Digital360, 2013 / [slides](https://speakerdeck.com/jasonrhodes/rip-wysiwyg)
 
 I have a high to very high level of comfort with the following:
 
+* Languages: JavaScript, PHP, SQL
 * Node.js
-* JavaScript, the language
 * ExpressJS
 * LevelDB
 * Browserify
@@ -79,10 +79,9 @@ I have a high to very high level of comfort with the following:
 * BackboneJS
 * Underscore/lodash
 * jQuery
-* PHP, the language
 * WordPress
 * Composer (PHP dependency management tool)
-* MySQL and SQL the language
+* MySQL
 * Apache config
 * Linux server management (particularly CentOS)
 * Capistrano deployment
@@ -94,7 +93,7 @@ I have beginner to moderate comfort with the following:
 * EmberJS
 * MongoDB
 * nginx
-* Ruby, the language
+* Ruby
 
 I know quite a bit about these but would prefer to touch them as little as possible:
 
