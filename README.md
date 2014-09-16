@@ -4,6 +4,9 @@ I'm a developer, community leader, open-source contributor, and speaker based in
 Contents:
 * [Work history](#work-history)
 * [Community leadership](#community-leadership)
+* [Open-source contributions](#open-source-contributions)
+* [Speaking experience](#speaking-experience)
+* [Skills and stuff](#skills-and-stuff)
 
 
 ### Work history
@@ -60,9 +63,9 @@ Midwest PHP, 2014 / [slides](https://speakerdeck.com/jasonrhodes/not-your-grandm
 **RIP WYSIWYG**  
 Digital360, 2013 / [slides](https://speakerdeck.com/jasonrhodes/rip-wysiwyg)
 
-### Super skills
+### Skills and stuff
 
-I have a high to very high level comfort with the following:
+I have a high to very high level of comfort with the following:
 
 * Node.js
 * JavaScript, the language
@@ -84,8 +87,9 @@ I have a high to very high level comfort with the following:
 * Linux server management (particularly CentOS)
 * The Clouds
 * Capistrano deployment
+* HTML templating (mustache, hogan, handlebars, underscore, Twig-php)
 
-I have beginner to moderate level comfort with the following:
+I have beginner to moderate comfort with the following:
 
 * AngularJS
 * EmberJS
@@ -93,7 +97,6 @@ I have beginner to moderate level comfort with the following:
 * nginx
 * Ruby, the language
 
-I know quite a bit about these but would prefer to never touch them again:
+I know quite a bit about these but would prefer to touch them as little as possible:
 
-* HTML5
 * CSS
