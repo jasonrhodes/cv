@@ -44,7 +44,7 @@ I've contributed in small part to many different projects but my favorite contri
 
 > [**Markov Memeify**](https://github.com/jasonrhodes/meatspace-markov-memeify) takes 24 hours worth of my favorite chat room's logs, runs a Markov chain filter through the text, and produces a 1-4 word phrase that is overlaid on a JPEG or PNG image using node-canvas and the always popular Impact font.
 
-You can also check out my other open-source code repositories on [http://github.com/jasonrhodes?tab=repositories](my GitHub page).
+You can also check out my other open-source code repositories on [my GitHub page](http://github.com/jasonrhodes?tab=repositories).
 
 ### Speaking experience
 
