@@ -98,4 +98,4 @@ I have beginner to moderate comfort with the following:
 
 I know quite a bit about these but would prefer to touch them as little as possible:
 
-* CSS
+* [CSS](https://medium.com/cool-code-pal/a-call-for-web-developers-to-deprecate-their-css-1f6430781393)
