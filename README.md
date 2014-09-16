@@ -85,7 +85,6 @@ I have a high to very high level of comfort with the following:
 * MySQL and SQL the language
 * Apache config
 * Linux server management (particularly CentOS)
-* The Clouds
 * Capistrano deployment
 * HTML templating (mustache, hogan, handlebars, underscore, Twig-php)
 
