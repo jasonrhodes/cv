@@ -1,6 +1,10 @@
 # Jason Rhodes
 I'm a developer, community leader, open-source contributor, and speaker based in Baltimore,&nbsp;MD. 
 
+Twitter: @rhodesjason  
+GitHub: jasonrhodes  
+IRC/freenode: rhodesjason
+
 Contents:
 * [Work history](#work-history)
 * [Community leadership](#community-leadership)
