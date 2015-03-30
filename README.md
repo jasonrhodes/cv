@@ -123,6 +123,6 @@ I have beginner to moderate comfort with the following:
 * nginx
 * Ruby
 
-I know quite a bit about these but would prefer to touch them as little as possible:
+I know quite a bit about these but would [prefer to touch them as little as possible](http://rhodesjason.com/blog/004_canteven-style-sheets.html):
 
 * [CSS](https://medium.com/cool-code-pal/a-call-for-web-developers-to-deprecate-their-css-1f6430781393)
