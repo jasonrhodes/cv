@@ -54,16 +54,16 @@ In addition to official NodeSchool events, I teach JavaScript courses at events 
 
 ### Training experience
 
-* NodeSchool event organization, facilitation, and training: http://nodeschool.io/baltimore
-* tutsplus.com training archive: http://tutsplus.com/authors/jason-rhodes
+In addition to NodeSchool events, where I organize and facilitate having TA mentors co-teach Node.js concepts to 30-50 attendees, I also create screencast tutorial courses that are usually about 90-120 minutes in length on many different topics for the site http://tutsplus.com
+
+You can see my course archive at: http://tutsplus.com/authors/jason-rhodes
 
 ### Speaking experience
 
 All slides: https://speakerdeck.com/rhodesjason
 
 **NodeSchool and Collaborative Community Learning**  
-EmpireNode 2014 / [video](https://www.youtube.com/watch?list=PL31ehRjJCA6Fh_l4jd-0neUKLUDwycZK8&v=mMbiHX2bmbA)  
-[slides](https://speakerdeck.com/rhodesjason/nodeschool-is-osccl)
+EmpireNode 2014 / [video](https://www.youtube.com/watch?list=PL31ehRjJCA6Fh_l4jd-0neUKLUDwycZK8&v=mMbiHX2bmbA) / [slides](https://speakerdeck.com/rhodesjason/nodeschool-is-osccl)
 
 **Started from the Bottom, A Story About NodeSchool and Community**  
 CascadiaJS 2014 / [video](https://www.youtube.com/watch?v=XsmvTnOLwhk&list=UUIP244iNzbn4iEkDOgczvcQ) /  [slides](https://speakerdeck.com/jasonrhodes/started-from-the-bottom)
