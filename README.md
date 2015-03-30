@@ -22,7 +22,7 @@ Message Systems (SparkPost Team)
 
 > **Responsibilities:**
 >
-> * Work with a team of engineers to build the SparkPost.com web application and APIs
+> * Work on an agile Kanban team of engineers to build the SparkPost.com web application and APIs
 > * Build and maintain Node.js application REST APIs
 > * Build and maintain Angular.js application UI front-end
 > * Write CSS and tests for UI front-end
