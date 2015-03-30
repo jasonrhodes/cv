@@ -1,5 +1,5 @@
 # Jason Rhodes
-I'm a developer, community leader, open-source contributor, and speaker based in Baltimore,&nbsp;MD. 
+I'm a developer, community leader, open-source contributor, educator, and speaker based&nbsp;in&nbsp;Baltimore,&nbsp;MD. 
 
 Twitter: @rhodesjason  
 GitHub: jasonrhodes  
@@ -51,7 +51,9 @@ Johns Hopkins University, Krieger School of Arts and Sciences
 
 I'm the creator and organizer of [Baltimore NodeSchool](http://nodeschool.io/baltimore), where we use open-source command-line lessons to teach various Node.js-related concepts every month, for free.
 
-In addition to official NodeSchool events, I teach JavaScript courses at events run by organizations such as [Baltimore Innovation Week](http://2014.baltimoreinnovationweek.com/events/dev_day-2) and [Girl Develop It](http://www.girldevelopit.com/). 
+I am also a co-organizer of [charmCityJS](http://charmcityjs.com), the newly-restarted Baltimore JavaScript meetup.
+
+In addition to these JS community events, I teach JavaScript courses at events run by organizations such as [Baltimore Innovation Week](http://2014.baltimoreinnovationweek.com/events/dev_day-2) and [Girl Develop It](http://www.girldevelopit.com/). 
 
 ### Teaching experience
 
