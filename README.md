@@ -8,8 +8,9 @@ IRC/freenode: rhodesjason
 Contents:
 * [Work history](#work-history)
 * [Community leadership](#community-leadership)
-* [Open-source contributions](#open-source-contributions)
+* [Teaching experience](#teaching-experience)
 * [Speaking experience](#speaking-experience)
+* [Open-source contributions](#open-source-contributions)
 * [Skills and stuff](#skills-and-stuff)
 
 
@@ -52,7 +53,7 @@ I'm the creator and organizer of [Baltimore NodeSchool](http://nodeschool.io/bal
 
 In addition to official NodeSchool events, I teach JavaScript courses at events run by organizations such as [Baltimore Innovation Week](http://2014.baltimoreinnovationweek.com/events/dev_day-2) and [Girl Develop It](http://www.girldevelopit.com/). 
 
-### Training experience
+### Teaching experience
 
 In addition to NodeSchool events, where I organize and facilitate having TA mentors co-teach Node.js concepts to 30-50 attendees, I also create screencast tutorial courses that are usually about 90-120 minutes in length on many different topics for the site http://tutsplus.com
 
@@ -79,6 +80,16 @@ Midwest PHP, 2014 / [slides](https://speakerdeck.com/jasonrhodes/not-your-grandm
 
 **RIP WYSIWYG**  
 Digital360, 2013 / [slides](https://speakerdeck.com/jasonrhodes/rip-wysiwyg)
+
+### Open-source contributions
+
+I've contributed in small part to many different projects but my favorite contributions recently have been to the http://revisit.link project, which "encourages developers to build small, focused code projects called services to manipulate images files in amazing ways". I've contributed several such "revisit services" that rely mostly on these two libraries that I created:
+
+> [**GifPlay**](https://github.com/jasonrhodes/revisit-gifplay) accepts animated GIFs and plays with the individual frames. Services here include shuffle, pingpong (running the image forward and backward in a loop), and slow-mo (adding delay to every 3rd frame), among others.
+
+> [**Markov Memeify**](https://github.com/jasonrhodes/meatspace-markov-memeify) takes 24 hours worth of my favorite chat room's logs, runs a Markov chain filter through the text, and produces a 1-4 word phrase that is overlaid on a JPEG or PNG image using node-canvas and the always popular Impact font.
+
+You can also check out my other open-source code repositories on [my GitHub page](http://github.com/jasonrhodes?tab=repositories).
 
 ### Skills and stuff
 
