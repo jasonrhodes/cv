@@ -103,6 +103,7 @@ I have a high to very high level of comfort with the following:
 * Gulp.js
 * Grunt.js
 * Mocha/Chai/Sinon for JS testing (BDD-style)
+* AngularJS
 * Redis (node-redis in particular)
 * BackboneJS
 * Underscore/lodash
@@ -110,6 +111,7 @@ I have a high to very high level of comfort with the following:
 * WordPress
 * Composer (PHP dependency management tool)
 * MySQL
+* Cassandra database
 * Apache config
 * Linux server management (particularly CentOS)
 * Capistrano deployment
@@ -117,7 +119,6 @@ I have a high to very high level of comfort with the following:
 
 I have beginner to moderate comfort with the following:
 
-* AngularJS
 * EmberJS
 * MongoDB
 * nginx
